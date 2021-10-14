@@ -1,1 +1,4 @@
-# HTML3odev
+# HTML
+## Alistirmalar ve Odevler
+### Odev 3
+*Yunus Akgeç*
